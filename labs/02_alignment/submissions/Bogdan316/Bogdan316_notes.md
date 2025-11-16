@@ -1,0 +1,2 @@
+- dataset used TP53
+- global alignment is preferred when the sequences are of similar length and come from closely related organisms
